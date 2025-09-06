@@ -2,6 +2,7 @@
 
 ```bash
 
+$ sudo apt-get install ros-${ROS_DISTRO}-ros2-control ros-${ROS_DISTRO}-ros2-controllers ros-${ROS_DISTRO}-gripper-controllers ros-${ROS_DISTRO}-gazebo-ros2-control
 $ cd robot_ws/src
 $ git clone https://github.com/ZZSZSZSZZ/robot_gazebo.git
 $ cd ..
